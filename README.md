@@ -10,7 +10,7 @@
 ### About Me
 
 - 🌍 Located in Brazil
-- 📧 Contact me: [natanbarbosa50@gmail.com](mailto:natanbarbosa50@gmail.com)
+- 📧 Contact me: [natanbarbosa50@gmail.com](mailto:ns5933988@gmail.com)
 - 💼 Explore my portfolio: [Portfolio](https://github.com/natanbs-dev)
 - 🌱 Currently broadening my horizons with Java and Python.
 - 💻 Open to collaborative opportunities in web development projects and UI/UX designs.
