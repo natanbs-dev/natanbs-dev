@@ -21,6 +21,9 @@
 ![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanb-dev&show_icons=true&theme=radical) 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/natanb-dev?theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
+[![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanbs-dev)](https://github.com/natanbs-dev/github-readme-stats)
+
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanb-dev&layout=compact)](https://github.com/devgferreira/github-readme-stats)
 
 ### Skills
