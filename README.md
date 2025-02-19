@@ -18,10 +18,9 @@
 
 ### Skills
 
-![natanbs-dev's Stats](https://github-readme-stats.vercel.app/api?username=natanbs-dev&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
+![natanbs-dev's Stats](https://github-readme-stats.vercel.app/api?username=natanbs-dev&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
-![natanbs-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanbs-dev&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)
-
+![natanbs-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natanbs-dev&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
 - 💡 **Languages:** Python | Java
 - 🌐 **Web Technologies:** HTML5 | CSS | JavaScript
