@@ -11,7 +11,7 @@
 
 - 🌍 Located in Brazil
 - 📧 Contact me: [barbosa_nt@proton.me](mailto:barbosa_nt@proton.me)
-- 💼 Explore my linkedin:[profile](https://www.linkedin.com/in/barbosa-dev/)
+- 💼 Explore my linkedin: [profile](https://www.linkedin.com/in/barbosa-dev/)
 - 💼 Explore my portfolio: [portfolio](https://github.com/natanbs-dev)
 - 🌱 Currently broadening my horizons with Java and Python.
 - 💻 Open to collaborative opportunities in web development projects and UI/UX designs.
