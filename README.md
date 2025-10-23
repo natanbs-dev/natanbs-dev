@@ -1,4 +1,4 @@
-x<div align="center">
+<div align="center">
   <h1>Natan Barbosa</h1>
   <h3>Passionate Programmer | Skilled Developer</h3>
 </div>
