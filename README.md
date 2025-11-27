@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <p>Welcome to my GitHub profile! I'm Natan Barbosa, a dedicated Developer based in beautiful Brazil. With expertise in Java Spring Boot and a strong API background, I'm here to turn your projects into masterpieces.</p>
+  <p>Welcome to my GitHub profile! I'm Natan Barbosa, a dedicated Developer based in Brazil. With expertise in Java and a strong API background, I'm here to turn your projects into masterpieces.</p>
 </div>
 
 ### About Me
