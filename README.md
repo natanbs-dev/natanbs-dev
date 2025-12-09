@@ -7,6 +7,9 @@
   <p>Welcome to my GitHub profile! I'm Natan Barbosa, a dedicated Developer based in Brazil. With expertise in Java and a strong API background, I'm here to turn your projects into masterpieces.</p>
 </div>
 
+<p align="center">
+<img width="1920px" src="https://github.com/natanbs-dev/linux_lightweight/blob/main/screenshot/deb-print.png" align="center" alt="white" /></br>
+
 ### About Me
 
 - 🌍 Located in Brazil
