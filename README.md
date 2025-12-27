@@ -21,13 +21,6 @@
 
 ### Skills
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=natanbs-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="natanbs-dev's GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=natanbs-dev&theme=tokyonight&hide_border=true" alt="natanbs-dev's GitHub Stats" />
-</div>
-
-
 - 💡 **Languages:** Python | Java
 - 🌐 **Web Technologies:** HTML5 | CSS | JavaScript
 - 🚀 **Frameworks:** React | Node.js | Spring Boot
