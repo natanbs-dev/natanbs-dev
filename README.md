@@ -14,7 +14,7 @@
 
 - 🌍 Located in Brazil
 - 📧 Contact me: [bonham_nt@proton.me](mailto:bonham_nt@proton.me)
-- 💼 Explore my portfolio: [portfolio](https://github.com/natanbs-dev)
+- 💼 Explore my portfolio: [portfolio]([https://github.com/natanbs-dev](https://natanbs-dev-portifolio-dp.vercel.app))
 - 🌱 Currently broadening my horizons with Java and Python.
 - 💻 Open to collaborative opportunities in web development projects and UI/UX designs.
 - ⚡ Coding is not just my profession, it's my passion.
