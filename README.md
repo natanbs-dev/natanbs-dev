@@ -21,10 +21,10 @@
 
 ### Skills
 
-- 💡 **Languages:** Python | Java
-- 🌐 **Web Technologies:** HTML5 | CSS | JavaScript
+- 💡 **Languages:** Python | Java | Typescript
+- 🌐 **Web Technologies:** JavaScript | HTML5 | CSS 
 - 🚀 **Frameworks:** React | Node.js | Spring Boot
-- 🛠 **Tools:** Git | Visual Studio Code | IntelliJ IDEA
+- 🛠 **Tools:** Git | VSCodium | IntelliJ IDEA
 - 🎨 **UI/UX Design:** Transforming ideas into stunning user experiences.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natanbs-dev&label=Profile%20views&color=0e75b6&style=flat" alt="natanbs-dev" /> </p>
